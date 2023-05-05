@@ -1,3 +1,3 @@
-# NFDI_MDI
+# LPJmLmdi - model-data integration for the LPJmL dynamic global vegetation model (R package)
 
 We present a model-data integration framework for optimizing global vegetation model. Dynamic global vegetation models (DGVMs) are important tools to understand the trajectories of the terrestrial ecosystems and carbon cycle in response to the future climate change. However, the simulations of dynamical processes of vegetation can well be biased by the empirical or even arbitrary parameterization in the model. We here show a case study in which the global dynamic vegetation model LPJmL (Lund-Potsdam-Jena managed Land) is optimized with observational site-level carbon flux and phenological datasets. This is a proof of concept that this approach can be theoretically applied to improve the performance of other DGVMs.   
